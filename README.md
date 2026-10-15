@@ -84,7 +84,7 @@ Participo da comunidade **DevClub** e da **Sirius Educação** (IA e Automação
     <td width="50%" valign="top">
       <h3 align="center">🏗️ Site Oketa Arquitetura</h3>
       <p align="center">
-        <a href="https://github.com/Augustodevv/site-oketa-"><img src="https://img.shields.io/badge/-Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/Augustodevv/site-oketa"><img src="https://img.shields.io/badge/-Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
       <p>Site institucional para escritório de arquitetura em Camburi/SP. Projeto real para cliente, com design responsivo e apresentação de portfólio.</p>
       <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
@@ -92,9 +92,9 @@ Participo da comunidade **DevClub** e da **Sirius Educação** (IA e Automação
     <td width="50%" valign="top">
       <h3 align="center">💈 Barbearia Black</h3>
       <p align="center">
-        <a href="https://github.com/Augustodevv/barbeariablack"><img src="https://img.shields.io/badge/-Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/Augustodevv/barbearia-black"><img src="https://img.shields.io/badge/-Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
-      <p>Landing page responsiva para barbearia com catálogo de serviços e integração WhatsApp para agendamento.</p>
+      <p>Landing page responsiva para barbearia com catálogo de serviços e agendamento via WhatsApp.</p>
       <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
     </td>
   </tr>
