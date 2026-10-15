@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mim
 
-Sou desenvolvedor web em formação e gosto de transformar necessidades reais em **soluções digitais claras e úteis**. Já criei sites e sistemas para clientes reais — como o site institucional da **Oketa Arquitetura** (Camburi/SP), landing pages para negócios locais e um SaaS de gestão financeira.
+Sou desenvolvedor web em formação e gosto de transformar necessidades reais em **soluções digitais claras e úteis**. Já criei sites e sistemas para clientes reais — como o site institucional da **Oketa Arquitetura** (Camburi/SP), landing pages para negócios locais e sistemas web completos.
 
 Minha experiência anterior em atendimento ao cliente me deu uma habilidade que levo para o código: **ouvir, entender o problema e construir a solução certa para quem vai usar.**
 
@@ -39,13 +39,13 @@ Participo da comunidade **DevClub** e da **Sirius Educação** (IA e Automação
   <tr>
     <td align="center"><strong>📚 Estudando</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -72,6 +72,16 @@ Participo da comunidade **DevClub** e da **Sirius Educação** (IA e Automação
       <p><strong>Stack:</strong> React · TypeScript · Fastify · PostgreSQL · Tailwind CSS</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">⚡ Atomic CRM</h3>
+      <p align="center">
+        <a href="https://github.com/Augustodevv/atomic-crm"><img src="https://img.shields.io/badge/-Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+      <p>CRM completo com gestão de contatos, quadro Kanban de negociações, tarefas automatizadas e importação de dados via CSV.</p>
+      <p><strong>Stack:</strong> React 19 · TypeScript · Supabase · Tailwind CSS</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">💬 AtendeFlow</h3>
       <p align="center">
         <a href="https://github.com/Augustodevv/atende-flow"><img src="https://img.shields.io/badge/-Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -79,8 +89,6 @@ Participo da comunidade **DevClub** e da **Sirius Educação** (IA e Automação
       <p>Painel de oportunidades comerciais para pequenos negócios. Interface responsiva com busca, filtros, indicadores de pipeline e persistência local. <strong>Zero dependências externas.</strong></p>
       <p><strong>Stack:</strong> Node.js · SQLite · HTML · CSS · JavaScript</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏗️ Site Oketa Arquitetura</h3>
       <p align="center">
@@ -89,12 +97,22 @@ Participo da comunidade **DevClub** e da **Sirius Educação** (IA e Automação
       <p>Site institucional para escritório de arquitetura em Camburi/SP. Projeto real para cliente, com design responsivo e apresentação de portfólio.</p>
       <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">💈 Barbearia Black</h3>
       <p align="center">
         <a href="https://github.com/Augustodevv/barbearia-black"><img src="https://img.shields.io/badge/-Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
-      <p>Landing page responsiva para barbearia com catálogo de serviços e agendamento via WhatsApp.</p>
+      <p>Landing page responsiva para barbearia com catálogo de serviços e integração WhatsApp para agendamento.</p>
+      <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧑‍💻 Portfólio Pessoal</h3>
+      <p align="center">
+        <a href="https://github.com/Augustodevv/site-augustodevv"><img src="https://img.shields.io/badge/-Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+      <p>Site pessoal com apresentação de projetos, competências técnicas e canais de contato direto.</p>
       <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
     </td>
   </tr>
