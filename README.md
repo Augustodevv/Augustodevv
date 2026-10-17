@@ -43,7 +43,7 @@ Aplicação Full-Stack de gestão financeira pessoal com isolamento por organiza
 
 ### AtendeFlow
 
-Painel de oportunidades para pequenos negócios. Permite cadastrar contatos, acompanhar negociações, definir próximos passos e visualizar indicadores, usando uma API Node.js e persistência em SQLite.
+Painel de oportunidades para pequenos negócios. Permite cadastrar contatos, acompanhar negociações, definir próximos passos e visualizar indicadores, usando uma API Node.js e persistência em SQLite. Inclui um botão de **sugestão de próximo passo com IA** (API da Anthropic), com regras locais como alternativa quando não há chave configurada. Os dados pessoais do contato não são enviados à IA.
 
 **Stack:** Node.js, SQLite, HTML, CSS e JavaScript  
 [Ver repositório](https://github.com/Augustodevv/atende-flow)
