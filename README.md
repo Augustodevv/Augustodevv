@@ -20,12 +20,19 @@ Atualmente aprofundo meus estudos em inteligência artificial, agentes e automa�
 ## Tecnologias
 
 **Frontend:** React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS  
-**Backend:** Node.js · Fastify · APIs REST  
+**Backend:** Node.js · Next.js · Fastify · APIs REST · Prisma  
 **Dados:** PostgreSQL · SQLite · Supabase  
-**Qualidade e fluxo:** Git · GitHub Actions · testes de integração  
+**Qualidade e fluxo:** Git · GitHub Actions · testes de integração e E2E (Vitest, Playwright)  
 **Em desenvolvimento:** IA generativa · agentes de IA · automações · n8n
 
 ## Projetos em destaque
+
+### AgendaFlow AI
+
+SaaS de agendamento para barbearias e salões. O cliente reserva pelo celular sem criar conta; o dono gerencia serviços, profissionais, jornada e agenda, e envia lembretes pelo WhatsApp para reduzir faltas. Multi-tenant com isolamento por empresa, prevenção de reserva duplicada garantida pelo PostgreSQL e testes de integração e E2E (Playwright, com checagem de acessibilidade) no CI.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Better Auth, Vitest e Playwright  
+[Ver repositório](https://github.com/Augustodevv/agendaflow-ai)
 
 ### Finanças SaaS
 
